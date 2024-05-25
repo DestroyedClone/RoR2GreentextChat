@@ -1,0 +1,9 @@
+{
+  "name": "Greentext",
+  "version_number": "1.0.1",
+  "website_url": "https://github.com/DestroyedClone/RoR2GreentextChat",
+  "description": ">playing artificer",
+  "dependencies": [
+    "bbepis-BepInExPack-5.4.2113"
+  ]
+}
