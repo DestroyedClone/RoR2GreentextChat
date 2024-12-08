@@ -12,7 +12,7 @@ using System.Security.Permissions;
 
 namespace RoR2GreentextChat
 {
-    [BepInPlugin("com.DestroyedClone.Greentext", "Greentext", "1.0.1")]
+    [BepInPlugin("com.DestroyedClone.Greentext", "Greentext", "1.0.2")]
     public class Plugin : BaseUnityPlugin
     {
         public void Awake()
